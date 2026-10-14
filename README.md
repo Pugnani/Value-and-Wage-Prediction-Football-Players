@@ -23,7 +23,7 @@ The project explores different regression approaches to understand how players' 
 
 The complete project report is available in PDF format and provides a detailed description of the methodology, implementation, experiments, and results.
 
-📄 **[Read the Full Project Report (PDF)](./nome_file.pdf)**
+📄 **[Read the Full Project Report (PDF)](./ProjectReport.pdf)**
 
 The report covers:
 
