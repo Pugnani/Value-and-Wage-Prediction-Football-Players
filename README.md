@@ -181,5 +181,4 @@ The project uses Python-based machine learning techniques and the following tool
 
 The repository contains the project implementation and its documentation, including the report describing the dataset, preprocessing pipeline, regression models, hyperparameter optimization, evaluation results, and final comparison.
 
-
-**Machine Learning Project — Academic Year 2024/2025**  
+ 
