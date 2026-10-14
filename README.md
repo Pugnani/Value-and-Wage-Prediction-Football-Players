@@ -9,7 +9,7 @@ A Machine Learning project focused on predicting football players' market value 
 
 - Matteo Hu — 
 - Laraib Ahmed — 
-- Stefano Pugnani — 
+- Stefano Pugnani — [@Pugnani](https://github.com/Pugnani)
 
 ## Project Overview
 
