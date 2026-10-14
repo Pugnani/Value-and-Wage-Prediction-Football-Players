@@ -7,9 +7,9 @@ A Machine Learning project focused on predicting football players' market value 
 
 ## Authors
 
-- Matteo Hu — 23094
-- Laraib Ahmed — 22509
-- Stefano Pugnani — 22582
+- Matteo Hu — 
+- Laraib Ahmed — 
+- Stefano Pugnani — 
 
 ## Project Overview
 
