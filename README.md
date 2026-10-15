@@ -3,7 +3,7 @@
 A Machine Learning project focused on predicting football players' market value and wages using regression algorithms.
 
 **Academic Year:** 2024/2025  
-**Course:** Machine Learning Project  
+**Course:** Machine Learning
 
 ## Authors
 
